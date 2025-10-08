@@ -1,3 +1,15 @@
-# DFA-NFA-equivalence-write-up-unpublished-
-I recently became interested in Theory of Computing after studying discrete mathematics, Introduction to the Design and Analysis of Algorithms and Theory of Computing at Iowa State and decided to write this paper on my own. I found that I especially enjoy drawing automata, working through equivalence problems, and reasoning about their behavior. This project grew naturally out of that experience, and it reflects how these classes inspired me to explore the equivalence problem more deeply. It is more of an experimental work to express my interest!
-I wrote an expository paper on the complexity of DFA and NFA equivalence, which is available here. This project reflects my interest in automata theory and how decidability results connect to computational complexity.
+# DFA–NFA Equivalence (Unpublished Write-up)
+
+I recently became interested in **Theory of Computing** after taking the following courses at Iowa State University:
+- Discrete Mathematics  
+- Introduction to the Design and Analysis of Algorithms  
+- Theory of Computing  
+
+Through these classes, I discovered that I especially enjoy drawing automata, working through equivalence problems, and reasoning formally about their behavior.  
+
+This write-up grew out of that experience. It is an **expository paper** on the *equivalence problem* for deterministic and nondeterministic finite automata (DFA vs NFA). The paper surveys classical results, outlines algorithms for DFA equivalence, and discusses why the NFA case is PSPACE-complete.  
+
+The project is not intended as original research, but rather as an **independent exploration** to deepen my understanding of automata and computational complexity.  
+
+*This project reflects my developing interest in automata theory and the boundaries of decidability and complexity.*
+
